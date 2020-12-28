@@ -1,3 +1,6 @@
 # ScaleFinancialStatementsForHomework
-create Proportional scale financial statements 
-# jupyternotebook
+ jupyternotebook
+
+## Quick Start
+
+`docker-compose up -d `
